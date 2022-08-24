@@ -6,7 +6,7 @@ Demonstrating real world applications of Databases by storing players scores wit
 
 **How to use:**
 
-- Download project as zip or "git clone https://github.com/coopermarino/Year10-Database-Design-Assessment.git"
+- Download project as zip or "git clone https://github.com/coopermarino/Year10-Database-Design-Assessment.git" in a terminal shell
 - Download XAMPP from the offical SourceForge repository (https://sourceforge.net/projects/xampp/files/)
 - After XAMPP has installed run it, if it isnt already
 

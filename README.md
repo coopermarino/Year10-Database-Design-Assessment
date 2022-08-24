@@ -13,7 +13,7 @@ Demonstrating real world applications of Databases by storing players scores wit
 **MacOS Users:**
 Do not install the "-vm" version of xampp
 
--Install lampp via the installer
+- Install lampp via the installer
 - Put the downloaded project files in 'htdocs' folder
 
 **MacOS**

@@ -1,3 +1,5 @@
+#NOTE: This Code is outdated and was made in 2021 when i had limited knowledge on PHP, I am willing to update to use Docker for a simpler use, if intrest.
+
 # Year10-Database-Design-Assessment
 
 Database website to easily keep track of players scores in wii bowling
